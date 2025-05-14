@@ -41,48 +41,48 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyA3lgZElbKi6a-XFXWfWLmH-xp-203-jD0',
-    appId: '1:606644287553:web:fea73807fdc647c842aec0',
-    messagingSenderId: '606644287553',
-    projectId: 'i-grow-25',
-    authDomain: 'i-grow-25.firebaseapp.com',
-    storageBucket: 'i-grow-25.firebasestorage.app',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    storageBucket: '',
     measurementId: 'G-0907NLR39R',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDfyBkx7Vub23MMVGLdL1rPXAJn37MpbwU',
-    appId: '1:606644287553:android:d87681e4515a126a42aec0',
-    messagingSenderId: '606644287553',
-    projectId: 'i-grow-25',
-    storageBucket: 'i-grow-25.firebasestorage.app',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyC3FsJ_9Q108tevCbjSEALV7t1L7tbeiVU',
-    appId: '1:606644287553:ios:c1b2b7c260e5848942aec0',
-    messagingSenderId: '606644287553',
-    projectId: 'i-grow-25',
-    storageBucket: 'i-grow-25.firebasestorage.app',
-    iosBundleId: 'com.example.igrow',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    iosBundleId: '',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyC3FsJ_9Q108tevCbjSEALV7t1L7tbeiVU',
-    appId: '1:606644287553:ios:c1b2b7c260e5848942aec0',
-    messagingSenderId: '606644287553',
-    projectId: 'i-grow-25',
-    storageBucket: 'i-grow-25.firebasestorage.app',
-    iosBundleId: 'com.example.igrow',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    iosBundleId: '',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyA3lgZElbKi6a-XFXWfWLmH-xp-203-jD0',
-    appId: '1:606644287553:web:eca412341310c67542aec0',
-    messagingSenderId: '606644287553',
-    projectId: 'i-grow-25',
-    authDomain: 'i-grow-25.firebaseapp.com',
-    storageBucket: 'i-grow-25.firebasestorage.app',
-    measurementId: 'G-NTESPNCLJZ',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    storageBucket: '',
+    measurementId: '',
   );
 }
