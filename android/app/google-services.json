@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "606644287553",
+    "project_id": "i-grow-25",
+    "storage_bucket": "i-grow-25.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606644287553:android:d87681e4515a126a42aec0",
+        "android_client_info": {
+          "package_name": "com.example.igrow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfyBkx7Vub23MMVGLdL1rPXAJn37MpbwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
